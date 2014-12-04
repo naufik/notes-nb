@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     94492,       1629]
-NotebookOptionsPosition[     93803,       1600]
-NotebookOutlinePosition[     94148,       1615]
-CellTagsIndexPosition[     94105,       1612]
+NotebookDataLength[     94493,       1629]
+NotebookOptionsPosition[     93804,       1600]
+NotebookOutlinePosition[     94149,       1615]
+CellTagsIndexPosition[     94106,       1612]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -87,7 +87,7 @@ Cell[BoxData[
 Cell[BoxData[
  TagBox[
   StyleBox[
-   DynamicModuleBox[{$CellContext`a$$ = 4.431980787381177, Typeset`show$$ = 
+   DynamicModuleBox[{$CellContext`a$$ = 0.4506355183356918, Typeset`show$$ = 
     True, Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
     Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
     "\"untitled\"", Typeset`specs$$ = {{
@@ -1619,21 +1619,20 @@ Cell[580, 22, 161, 2, 70, "Section"],
 Cell[744, 26, 172, 2, 30, "Text"],
 Cell[CellGroupData[{
 Cell[941, 32, 2063, 52, 72, "Input"],
-Cell[3007, 86, 2566, 54, 454, "Output"]
+Cell[3007, 86, 2567, 54, 454, "Output"]
 }, Open  ]],
-Cell[5588, 143, 314, 6, 30, "Text"]
+Cell[5589, 143, 314, 6, 30, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[5939, 154, 174, 2, 70, "Section"],
+Cell[5940, 154, 174, 2, 70, "Section"],
 Cell[CellGroupData[{
-Cell[6138, 160, 2066, 59, 82, "Input"],
-Cell[8207, 221, 85496, 1372, 375, "Output"]
+Cell[6139, 160, 2066, 59, 82, "Input"],
+Cell[8208, 221, 85496, 1372, 375, "Output"]
 }, Open  ]],
-Cell[93718, 1596, 69, 1, 31, "Input"]
+Cell[93719, 1596, 69, 1, 31, "Input"]
 }, Open  ]]
 }
 ]
 *)
 
 (* End of internal cache information *)
-
